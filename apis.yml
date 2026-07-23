@@ -1,7 +1,28 @@
 aid: 7cups
-name: 7cups
-description: 7cups is a company surfaced as a portfolio company of y-combinator and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/7cups.png
+name: 7 Cups
+description: >-
+  7 Cups (7cups.com) is an on-demand emotional health and online therapy service
+  founded in 2013 and backed by Y Combinator. It connects people seeking support
+  with a network of trained volunteer listeners for free, anonymous one-on-one
+  chat, and matches members with licensed therapists and social workers for paid
+  online therapy delivered by messaging, audio, or video. The platform also runs
+  peer community forums, group support chat rooms, and self-help "growth path"
+  content. 7 Cups operates across 189 countries in 140 languages with hundreds of
+  thousands of trained listeners. It is a consumer web and mobile product rather
+  than an API-first developer platform; this profile is maintained in the API
+  Evangelist network as a company record and carries no public API at this time.
 url: https://raw.githubusercontent.com/api-evangelist/7cups/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -14,9 +35,42 @@ created: '2026-07-17'
 modified: '2026-07-17'
 tags:
 - Company
+- Mental Health
+- Online Therapy
+- Emotional Support
+- Counseling
+- Healthcare
+- Wellness
+- Community
 apis: []
+common:
+- type: DomainSecurity
+  url: security/7cups-domain-security.yml
+- type: LLMsTxt
+  url: llms/7cups-llms.txt
+- type: Website
+  url: https://www.7cups.com/
+- type: About
+  url: https://www.7cups.com/about/
+- type: Support
+  url: https://help.7cups.com/hc/en-us
+- type: Community
+  url: https://www.7cups.com/community/
+- type: PrivacyPolicy
+  url: https://www.7cups.com/Documents/PrivacyPolicy
+- type: TermsOfService
+  url: https://www.7cups.com/Documents/TermsOfService/
+- type: SignUp
+  url: https://www.7cups.com/online-therapy/signup/
+- type: GitHubOrganization
+  url: https://github.com/7Cups
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence

@@ -1,0 +1,26 @@
+# 7 Cups
+
+> 7 Cups (7cups.com) is an on-demand emotional health and online therapy service backed by Y Combinator. It connects people with trained volunteer listeners for free, anonymous one-on-one chat, and matches members with licensed therapists for paid online therapy by messaging, audio, or video, alongside peer community forums and group support. It operates across 189 countries in 140 languages. 7 Cups is a consumer web and mobile product and publishes no public API at this time.
+
+## About
+
+- [Homepage](https://www.7cups.com/): Free online mental health support, therapy, and counseling.
+- [About Us](https://www.7cups.com/about/): Mission, model, and background of 7 Cups.
+- [How It Works](https://www.7cups.com/about/howitworks.php): How listeners, therapy, and community support work.
+- [Online Therapy](https://www.7cups.com/online-therapy/): Licensed-therapist counseling plans and pricing.
+- [Community](https://www.7cups.com/community/): Peer forums and group support chat rooms.
+
+## Support
+
+- [Help Center](https://help.7cups.com/hc/en-us): Member and listener support articles.
+- [Sign Up](https://www.7cups.com/online-therapy/signup/): Create an account for support or therapy.
+
+## Legal
+
+- [Privacy Policy](https://www.7cups.com/Documents/PrivacyPolicy): How 7 Cups collects and uses data.
+- [Terms of Service](https://www.7cups.com/Documents/TermsOfService/): Terms governing use of the service.
+- [Notice of Privacy Practices](https://www.7cups.com/Documents/NoticeOfPrivacyPractices/): HIPAA privacy notice for therapy services.
+
+## Code
+
+- [GitHub Organization](https://github.com/7Cups): Public repositories (tooling and forks; no SDK or API).
