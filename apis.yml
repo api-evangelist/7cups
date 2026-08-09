@@ -12,16 +12,13 @@ accessModel:
   method: derived
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/7cups.png
 name: 7 Cups
-description: >-
-  7 Cups (7cups.com) is an on-demand emotional health and online therapy service
-  founded in 2013 and backed by Y Combinator. It connects people seeking support
-  with a network of trained volunteer listeners for free, anonymous one-on-one
-  chat, and matches members with licensed therapists and social workers for paid
-  online therapy delivered by messaging, audio, or video. The platform also runs
-  peer community forums, group support chat rooms, and self-help "growth path"
-  content. 7 Cups operates across 189 countries in 140 languages with hundreds of
-  thousands of trained listeners. It is a consumer web and mobile product rather
-  than an API-first developer platform; this profile is maintained in the API
+description: 7 Cups (7cups.com) is an on-demand emotional health and online therapy service founded in
+  2013 and backed by Y Combinator. It connects people seeking support with a network of trained volunteer
+  listeners for free, anonymous one-on-one chat, and matches members with licensed therapists and social
+  workers for paid online therapy delivered by messaging, audio, or video. The platform also runs peer
+  community forums, group support chat rooms, and self-help "growth path" content. 7 Cups operates across
+  189 countries in 140 languages with hundreds of thousands of trained listeners. It is a consumer web
+  and mobile product rather than an API-first developer platform; this profile is maintained in the API
   Evangelist network as a company record and carries no public API at this time.
 url: https://raw.githubusercontent.com/api-evangelist/7cups/refs/heads/main/apis.yml
 x-type: company
@@ -32,7 +29,7 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-08-08'
 tags:
 - Company
 - Mental Health
@@ -64,6 +61,10 @@ common:
   url: https://www.7cups.com/online-therapy/signup/
 - type: GitHubOrganization
   url: https://github.com/7Cups
+- type: HelpCenter
+  url: https://help.7cups.com/hc/en-us
+- type: Pricing
+  url: https://www.7cups.com/upgrade/
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
@@ -74,3 +75,5 @@ x-enrichment:
   status: backfilled
   pass: local-v1
   note: backfilled from .gitignore signal + verified work evidence
+x-merged-from:
+- 7-cups
