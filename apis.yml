@@ -65,6 +65,15 @@ common:
   url: https://help.7cups.com/hc/en-us
 - type: Pricing
   url: https://www.7cups.com/upgrade/
+- type: DomainSecurity
+  url: security/7cups-domain-security.yml
+- type: Pricing
+  url: https://help.7cups.com/hc/en-us/articles/360026079134-How-Much-Does-7-Cups-Online-Therapy-Cost
+- type: Solutions
+  name: Solutions for Organizations
+  url: https://www.7cups.com/solutions/
+- type: DomainSecurity
+  url: security/7cups-domain-security.yml
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
