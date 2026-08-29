@@ -32,6 +32,9 @@ description: 7 Cups (7cups.com) is an on-demand emotional health and online ther
   and mobile product rather than an API-first developer platform; this profile is maintained in the API
   Evangelist network as a company record and carries no public API at this time.
 url: https://raw.githubusercontent.com/api-evangelist/7cups/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "It is a consumer web and mobile product rather than an API-first developer platform; this profile is maintained in the API Evangelist network as a company record and carries no public API at this time"
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
