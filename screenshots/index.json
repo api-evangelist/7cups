@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "7cups",
+    "captured_at": "2026-10-11T134454",
+    "source_url": "https://www.7cups.com/",
+    "source_type": "Website",
+    "file": "7cups-2026-10-11T134454.png",
+    "bytes": 881779,
+    "capture": "playwright-local"
+  }
+]
